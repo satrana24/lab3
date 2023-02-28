@@ -1,6 +1,6 @@
 from random import *
 def first():
-    n = int(input('сколько хотите ввести слов? '))
+    n = int(input('сколько хотите ввести слов1? '))
     s = []
 
     for i in range(1, n + 1):
